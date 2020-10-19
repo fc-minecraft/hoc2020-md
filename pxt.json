@@ -1,6 +1,6 @@
 {
     "name": "minecraft-hoc2020-md",
-    "version": "0.3.0",
+    "version": "0.3.2",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -14,9 +14,13 @@
         "rails.md",
         "ravager.md",
         "t1.md",
-        "t2.md"
-
+        "t2.md",
+        "tutorial-info-cache.json"
     ],
+    "targetVersions": {
+        "target": "1.5.43",
+        "targetId": "minecraft"
+    },
     "supportedTargets": [
         "minecraft"
     ],
