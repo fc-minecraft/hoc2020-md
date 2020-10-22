@@ -18,5 +18,5 @@ Use the ``||hoc2020:prepare soil||`` block to move forward while replacing the g
 \\
 ```
 ```package
-hoc2020-ts=github:neonerz/hoc2020-ts
+hoc2020-ts=github:rewrite-media/hoc2020-ts
 ```

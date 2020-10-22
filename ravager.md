@@ -18,5 +18,5 @@ Use the ``||hoc2020:lead ravager||`` block to have the ravager follow the Agent.
 \\
 ```
 ```package
-hoc2020-ts=github:neonerz/hoc2020-ts
+hoc2020-ts=github:rewrite-media/hoc2020-ts
 ```

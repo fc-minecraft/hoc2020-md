@@ -18,5 +18,5 @@ Use the ``||hoc2020:move and place||`` block to move forward and then place a wo
 \\
 ```
 ```package
-hoc2020-ts=github:neonerz/hoc2020-ts
+hoc2020-ts=github:rewrite-media/hoc2020-ts
 ```
