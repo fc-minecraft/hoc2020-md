@@ -1,33 +1,22 @@
-### @codeStart players set @s makecode 0
-### @codeStop players set @s makecode 1
+### @flyoutOnly true
+### @hideIteration true
+### @explicitHints true
 
-### @flyoutOnly 1
-### @hideIteration 1 
-### @explicitHints 1
-
-# Protect the beets
+# Protect the beets.
 
 ## Step 1
-Place a fence around the beet farm.
+Something keeps getting into the garden and taking beets. Have the Agent build a fence around the farm to keep out whatever is doing it.
+
+#### ~ tutorialhint 
+Use the ``||hoc2020:place fence||`` block to move forward while placing fences behind the Agent.
 
 ```ghost
-player.onChat("fox", function () {
-    agent.setItem(OAK_FENCE, 64, 1)
-    for (let index = 0; index < 11; index++) {
-        agent.move(FORWARD, 1)
-        agent.place(BACK)
-    }
-    for (let index = 0; index < 6; index++) {
-        agent.move(LEFT, 1)
-        agent.place(RIGHT)
-    }
-    for (let index = 0; index < 12; index++) {
-        agent.move(BACK, 1)
-        agent.place(FORWARD)
-    }
-    for (let index = 0; index < 7; index++) {
-        agent.move(RIGHT, 1)
-        agent.place(LEFT)
-    }
-})
+    hoc2020.buildFence(1)
+    hoc2020.turnAgent()  
+```
+```template
+\\
+```
+```package
+hoc2020-ts=github:neonerz/hoc2020-ts
 ```

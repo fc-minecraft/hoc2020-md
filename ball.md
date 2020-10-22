@@ -1,27 +1,23 @@
-### @codeStart players set @s makecode 0
-### @codeStop players set @s makecode 1
+### @flyoutOnly true
+### @hideIteration true
+### @explicitHints true
 
-### @flyoutOnly 1
-### @hideIteration 1
-### @explicitHints 1
-
-# Get the ball
+# Get the ball.
 
 ## Step 1
-Have the Agent go up the wall pressing each button along the way. 
+The old lady's elevator isn't working. It looks like the levers are stuck. Have the Agent use its strength to flip all the levers so she can bring down the children's ball.
+
+
+#### ~ tutorialhint 
+Use the ``||hoc2020:agent move||`` block to climb **up** the wall and ``||hoc2020:toggle lever||`` to toggle a lever on.
 
 ```ghost
-player.onChat("witch", function () {
-    agent.move(UP, 1)
-    agent.interact(FORWARD)
-    agent.move(RIGHT, 3)
-    agent.move(UP, 2)
-    agent.interact(FORWARD)
-    agent.move(LEFT, 3)
-    agent.move(UP, 1)
-    agent.interact(FORWARD)
-    agent.move(RIGHT, 3)
-    agent.move(UP, 2)
-    agent.interact(FORWARD)
-})
+    hoc2020.moveAgent()
+    hoc2020.flipLever()
+```
+```template
+\\
+```
+```package
+hoc2020-ts=github:neonerz/hoc2020-ts
 ```
