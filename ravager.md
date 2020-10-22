@@ -10,6 +10,8 @@ The villagers are scared of ravagers. Help them get over their bias by allowing 
 #### ~ tutorialhint 
 Use the ``||hoc2020:lead ravager||`` block to have the ravager follow the Agent.
 
+The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.
+
 ```ghost
     hoc2020.leadRavager()
     hoc2020.turnAgent()    

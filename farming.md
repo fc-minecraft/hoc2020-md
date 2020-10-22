@@ -8,7 +8,11 @@
 The villagers agreed to teach the illagers how to farm, but first they need farmland setup. Have the Agent replace the gravel pad with farmland.
 
 #### ~ tutorialhint 
-Use the ``||hoc2020:prepare soil||`` block to move forward while replacing the gravel with tilled soil.
+Use the ``||hoc2020:prepare soil||`` block to move the Agent forward while replacing the gravel with tilled soil. 
+
+The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.
+
+
 
 ```ghost
     hoc2020.tillSoil(1)
