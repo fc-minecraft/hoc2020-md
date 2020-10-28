@@ -5,7 +5,7 @@
 # Get the ball.
 
 ## Step 1
-The old lady's elevator isn't working. It looks like the levers are stuck. Have the Agent use its strength to flip all the levers so she can bring down the children's ball.
+It looks like the levers are stuck on the Villager lady's elevator. Have the Agent use its strength to flip all the levers so she can bring down the children's ball.
 
 
 #### ~ tutorialhint 
