@@ -5,7 +5,7 @@
 # Building a farm.
 
 ## Step 1
-The Villagers agreed to teach the Illagers how to farm, but first they need farmland setup. Have the Agent till the last two rows of dirt into farmland.
+The Villagers offered to teach the Illagers how to farm, but they need help to prepare the land. Have the Agent till the first 2 rows of dirt.
 
 #### ~ tutorialhint 
 The ``||hoc2020:till soil below||`` block will till the dirt block below the Agent.  
