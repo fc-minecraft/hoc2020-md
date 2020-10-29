@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Protect the beets.
+# Protect the beets
 
 ## Step 1
 Something keeps getting into the garden and taking beets. Have the Agent build a fence around the farm to keep out whatever is doing it.

@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Get the ball.
+# Get the ball
 
 ## Step 1
 It looks like the levers are stuck on the Villager lady's elevator. Have the Agent use its strength to flip all the levers so she can bring down the children's ball.

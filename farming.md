@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Building a farm.
+# Building a farm
 
 ## Step 1
 The Villagers offered to teach the Illagers how to farm, but they need help to prepare the land. Have the Agent till the first 2 rows of dirt.

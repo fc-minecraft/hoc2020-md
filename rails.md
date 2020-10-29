@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lay down some rails.
+# Lay down some rails
 
 ## Step 1
 Create an easier way to get between both towns by placing minecart rails through the tunnel.

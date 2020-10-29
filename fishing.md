@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Building a dock.
+# Building a dock
 
 ## Step 1
 Build the frame of a dock that's 6 blocks long and 4 blocks wide.
