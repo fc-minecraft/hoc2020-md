@@ -5,10 +5,10 @@
 # Protect the beets
 
 ## Step 1
-Something keeps getting into the garden and taking beets. Have the Agent build a fence around the farm to keep out whatever is doing it.
+Something keeps getting into the garden and taking beets. Have the Agent build an enclosure around the farm to keep out whatever is doing it.
 
 #### ~ tutorialhint 
-The ``||hoc2020:place fence behind||`` block will place a fence block behind the Agent.  
+The ``||hoc2020:place iron bars down||`` block will place an iron bar below the Agent.  
 The ``||hoc2020:agent move||`` block will move the Agent in whatever direction you specify.  
 The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.  
 The ``||loops:repeat||`` block will allow you to repeat a set of blocks multiple times.
