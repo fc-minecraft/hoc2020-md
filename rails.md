@@ -14,11 +14,10 @@ The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.
 The ``||loops:repeat||`` block will allow you to repeat a set of blocks multiple times.  
 
 ```ghost
-for (let i = 0; i < 5; i++) {
     hoc2020.placeRails()
     hoc2020.moveAgent()
     hoc2020.turnAgent()  
-}    
+    customRepeatLoop() 
 ```
 ```template
 \\

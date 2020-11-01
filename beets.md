@@ -15,11 +15,10 @@ The ``||loops:repeat||`` block will allow you to repeat a set of blocks multiple
 
 
 ```ghost
-for (let i = 0; i < 5; i++) {
     hoc2020.placeFence()
     hoc2020.moveAgent()
     hoc2020.turnAgent()  
-}
+    customRepeatLoop()
 ```
 ```template
 \\
