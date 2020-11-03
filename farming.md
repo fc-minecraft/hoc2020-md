@@ -11,13 +11,13 @@ The Villagers offered to teach the Illagers how to farm, but they need help to p
 The ``||hoc2020:till soil below||`` block will till the dirt block below the Agent.  
 The ``||hoc2020:agent move||`` block will move the Agent in whatever direction you specify.  
 The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.  
-The ``||loops:repeat||`` block will allow you to repeat a set of blocks multiple times.
+The ``||hoc2020:repeat||`` block will allow you to repeat a set of blocks multiple times.
 
 ```ghost
     hoc2020.tillSoil()
     hoc2020.moveAgent()
     hoc2020.turnAgent()  
-    customRepeatLoop()   
+    hoc2020.customRepeatLoop()   
 ```
 ```template
 \\
