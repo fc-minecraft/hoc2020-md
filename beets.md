@@ -5,7 +5,7 @@
 # Protect the beets
 
 ## Step 1
-Something2 keeps getting into the garden and taking beets. Have the Agent build an enclosure around the farm to keep out whatever is doing it.
+Something keeps getting into the garden and taking beets. Have the Agent build an enclosure around the farm to keep out whatever is doing it.
 
 #### ~ tutorialhint 
 The ``||hoc2020:place iron bars down||`` block will place an iron bar below the Agent.  
