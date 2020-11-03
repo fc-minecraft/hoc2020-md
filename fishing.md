@@ -13,13 +13,13 @@ The ``||hoc2020:agent move||`` block will move the Agent in whatever direction y
 The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.  
 
 ```ghost
-    hoc2020.placePlanks()
-    hoc2020.moveAgent()
-    hoc2020.turnAgent()  
+    hoc2020.placePlanks(0)
+    hoc2020.moveAgent(SixDirection.Left, 0)
+    hoc2020.turnAgent(TurnDirection.Left)  
 ```
 ```template
 \\
 ```
 ```package
-hoc2020-ts=github:rewrite-media/hoc2020-ts
+hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.2.15
 ```

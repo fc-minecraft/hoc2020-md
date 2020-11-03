@@ -16,13 +16,13 @@ The ``||hoc2020Different:repeat||`` block will allow you to repeat a set of bloc
 
 ```ghost
     hoc2020.placeFence()
-    hoc2020.moveAgent()
-    hoc2020.turnAgent()  
-    hoc2020Different.customRepeatLoop()
+    hoc2020.moveAgent(SixDirection.Left, 0)
+    hoc2020.turnAgent(TurnDirection.Left)  
+    hoc2020Different.customRepeatLoop(0, () => {})
 ```
 ```template
 \\
 ```
 ```package
-hoc2020-ts=github:rewrite-media/hoc2020-ts
+hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.2.15
 ```

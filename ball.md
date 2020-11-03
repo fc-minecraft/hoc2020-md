@@ -12,12 +12,12 @@ It looks like the levers are stuck on the Villager lady's elevator. Have the Age
 Use the ``||hoc2020:agent move||`` block to climb **up** the wall and ``||hoc2020:toggle lever||`` to toggle a lever on.
 
 ```ghost
-    hoc2020.moveAgent()
-    hoc2020.flipLever()
+    hoc2020.moveAgent(SixDirection.Left, 0)
+    hoc2020.flipLever(TurnDirection.Left)
 ```
 ```template
 \\
 ```
 ```package
-hoc2020-ts=github:rewrite-media/hoc2020-ts
+hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.2.15
 ```
