@@ -13,7 +13,7 @@ Use the ``||hoc2020:agent move||`` block to climb **up** the wall and ``||hoc202
 
 ```ghost
     hoc2020.moveAgent(SixDirection.Left, 0)
-    hoc2020.flipLever(TurnDirection.Left)
+    hoc2020.flipLever()
 ```
 ```template
 \\
