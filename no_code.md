@@ -4,7 +4,7 @@
 
 
 ## No code is required for this activity. 
-It looks like you haven't started a new activity or there's no coding needed right now. See if you can find someone in the town who needs your help!
+It looks like you haven't started a new activity or there's no coding needed right now. Go find someone who needs your help!
 
 ```template
 player.onChat("run", function () {
