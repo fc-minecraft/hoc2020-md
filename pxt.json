@@ -15,10 +15,11 @@
         "ravager.md",
         "t1.md",
         "t2.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "no_code.md"
     ],
     "targetVersions": {
-        "target": "1.5.51",
+        "target": "1.5.52",
         "targetId": "minecraft"
     },
     "supportedTargets": [

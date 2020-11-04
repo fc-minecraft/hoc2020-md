@@ -5,7 +5,7 @@
 # Introduce the ravager
 
 ## Step 1
-The villagers are scared of ravagers. Help them get over their bias by allowing them to meet the ravager. Use the Agent to lead it to each villager with an arrow above their head.
+Help the Villagers meet a ravager. Use the Agent to lead the ravager to each Villager with an arrow above their head.
 
 #### ~ tutorialhint 
 Use the ``||hoc2020:lead ravager||`` block to have the ravager follow the Agent.  

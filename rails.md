@@ -5,7 +5,7 @@
 # Lay down some rails
 
 ## Step 1
-Create an easier way to get between both towns by placing minecart rails through the tunnel.
+Create an easier way to travel between both towns by placing minecart rails through the tunnel.
 
 #### ~ tutorialhint 
 The ``||hoc2020:place rail below||`` block will place a rail under the Agent.  

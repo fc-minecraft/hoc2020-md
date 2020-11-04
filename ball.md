@@ -5,7 +5,7 @@
 # Get the ball
 
 ## Step 1
-It looks like the levers are stuck on the Villager lady's elevator. Have the Agent use its strength to flip all the levers so she can bring down the children's ball.
+It looks like the levers are stuck on the elevator. Have the Agent use its strength to flip all the levers so the Villager can bring down the children's ball.
 
 
 #### ~ tutorialhint 

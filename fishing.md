@@ -5,7 +5,7 @@
 # Building a dock
 
 ## Step 1
-Build the outside edges of a dock that's 6 blocks long and 4 blocks wide.
+Build the outside edges of a dock that's 6 blocks long and 4 blocks wide. (Hint: Draw a picture of your dock before you start!)
 
 #### ~ tutorialhint 
 The ``||hoc2020:move and place||`` block will move the agent forward and then place a wood plank below.  
