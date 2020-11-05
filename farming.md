@@ -21,5 +21,5 @@ The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.
 \\
 ```
 ```package
-hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.2.15
+hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.3.0
 ```
