@@ -16,7 +16,7 @@ The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.
     hoc2020.turnAgent(TurnDirection.Left)    
 ```
 ```template
-\\
+//
 ```
 ```package
 hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.3.0

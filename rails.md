@@ -18,7 +18,7 @@ The ``||hoc2020Different:repeat||`` block will allow you to repeat a set of bloc
     hoc2020Different.customRepeatLoop(0, () => {})
 ```
 ```template
-\\
+//
 ```
 ```package
 hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.3.0
