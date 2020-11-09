@@ -19,5 +19,5 @@ Use the ``||hoc2020:agent move||`` block to climb **up** the wall and ``||hoc202
 //
 ```
 ```package
-hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.2.15
+hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.3.0
 ```
