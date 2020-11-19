@@ -21,5 +21,5 @@ The ``||hoc2020Different:repeat||`` block will allow you to repeat a set of bloc
 //
 ```
 ```package
-hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.3.2
+hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.3.4
 ```
