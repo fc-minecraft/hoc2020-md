@@ -16,10 +16,11 @@
         "t1.md",
         "t2.md",
         "tutorial-info-cache.json",
-        "no_code.md"
+        "no_code.md",
+        "1.1.3.md"
     ],
     "targetVersions": {
-        "target": "1.6.8",
+        "target": "1.7.10",
         "targetId": "minecraft"
     },
     "supportedTargets": [
