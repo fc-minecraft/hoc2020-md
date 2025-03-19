@@ -2,14 +2,15 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Introduce the ravager
+# Представить опустошителя
 
 ## Step 1
-Help the Villagers meet a ravager. Use the Agent to lead the ravager to each Villager with an arrow above their head.
+Помоги Жителям встретиться с опустошителем. Используй Агента, чтобы привести опустошителя к каждому Жителю с нависшей над ним стрелкой.
 
-#### ~ tutorialhint 
-Use the ``||hoc2020:lead ravager||`` block to have the ravager follow the Agent forward.  
-The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.
+#### ~ tutorialhint
+Используй блок "вести опустошителя", чтобы опустошитель следовал за Агентом вперёд.
+Блок "повернуть агента" повернёт Агента влево или вправо.
+
 
 ```ghost
     hoc2020.leadRavager(0)

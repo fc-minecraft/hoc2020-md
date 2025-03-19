@@ -2,14 +2,14 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Get the ball
+# Достать мяч
 
 ## Step 1
-It looks like the levers are stuck on the elevator. Have the Agent use its strength to flip all the levers so the Villager can bring down the children's ball.
+Похоже, рычаги на лифте заклинило. Пусть Агент использует свою силу, чтобы переключить все рычаги, чтобы Житель мог спустить детский мяч.
 
+#### ~ tutorialhint
+Используй блок "переместить агента", чтобы взобраться **вверх** по стене, и блок "переключить рычаг", чтобы включить рычаг.
 
-#### ~ tutorialhint 
-Use the ``||hoc2020:agent move||`` block to climb **up** the wall and ``||hoc2020:toggle lever||`` to toggle a lever on.
 
 ```ghost
     hoc2020.moveAgent(SixDirection.Left, 0)

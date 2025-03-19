@@ -2,15 +2,16 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Building a dock
+# Строительство причала
 
 ## Step 1
-Build the outside edges of a dock that's 6 blocks long and 4 blocks wide. (Hint: Draw a picture of your dock before you start!)
+Построй внешние края причала длиной 6 блоков и шириной 4 блока. (Подсказка: Нарисуй картинку своего причала перед началом!)
 
-#### ~ tutorialhint 
-The ``||hoc2020:move and place||`` block will move the agent forward and then place a wood plank below.  
-The ``||hoc2020:agent move||`` block will move the Agent in whatever direction you specify.  
-The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.  
+#### ~ tutorialhint
+Блок "переместить и установить" переместит агента вперёд и установит деревянную доску под ним.
+Блок "переместить агента" переместит Агента в указанном направлении.
+Блок "повернуть агента" повернёт Агента влево или вправо.
+
 
 ```ghost
     hoc2020.placePlanks(0)

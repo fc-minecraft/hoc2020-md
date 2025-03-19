@@ -2,15 +2,15 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lay down some rails
+# Проложить рельсы
 
 ## Step 1
-Create an easier way to travel between both towns by placing minecart rails through the tunnel.
+Создай более лёгкий способ путешествовать между двумя городами, проложив рельсы для вагонетки через туннель.
 
-#### ~ tutorialhint 
-The ``||hoc2020:place rail below||`` block will place a rail under the Agent.  
-The ``||hoc2020:agent move||`` block will move the Agent in whatever direction you specify.   
-The ``||hoc2020Different:repeat||`` block will allow you to repeat a set of blocks multiple times.  
+#### ~ tutorialhint
+Блок "установить рельсы" установит рельсы под Агентом.
+Блок "переместить агента" переместит Агента в указанном направлении.
+Блок "повторить" позволит повторить набор блоков несколько раз.
 
 ```ghost
     hoc2020.placeRails()

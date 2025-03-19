@@ -2,16 +2,16 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Protect the beets
+# Защитить свёклу
 
 ## Step 1
-Something keeps getting into the garden and taking beets. Have the Agent build a fence around the farm to keep the beets safe.
+Что-то постоянно проникает в сад и крадёт свёклу. Заставь Агента построить забор вокруг фермы, чтобы защитить свёклу.
 
-#### ~ tutorialhint 
-The ``||hoc2020:place iron bars down||`` block will place an iron bar below the Agent.  
-The ``||hoc2020:agent move||`` block will move the Agent in whatever direction you specify.  
-The ``||hoc2020:turn agent||`` block will turn the Agent either left or right.  
-The ``||hoc2020Different:repeat||`` block will allow you to repeat a set of blocks multiple times.
+#### ~ tutorialhint
+Блок "установить железные прутья вниз" установит железный прут под Агентом.
+Блок "переместить агента" переместит Агента в указанном направлении.
+Блок "повернуть агента" повернёт Агента влево или вправо.
+Блок "повторить" позволит повторить набор блоков несколько раз.
 
 
 ```ghost
